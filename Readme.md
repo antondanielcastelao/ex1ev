@@ -15,7 +15,7 @@ Las fichas blancas son un círculo (`'O'`) y las negras
 se representan con una cruz (`'X'`). __Va ganando el juegador 
 que más fichas tenga en el tablero__.
 
-> [!NOTA]
+> [!NOTE]
 > Este este proyecto está en proceso de ser terminado todavía,
 > puedes contribuir implementando cualquier tarea del [apartado por implementar](#por-implementar). 
 
