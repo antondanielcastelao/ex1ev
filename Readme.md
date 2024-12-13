@@ -1,4 +1,4 @@
-# Juego de las damas
+# Juego de las damas :joy:
 ## Funcionamiento
 El juego consta de un **tablero de 8 x 8**. 
 Las fichas blancas son un círculo (`'O'`) y las negras
