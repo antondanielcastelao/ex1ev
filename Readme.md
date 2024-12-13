@@ -27,8 +27,34 @@ char[][] tablero = {
 ## Por implementar
 - [X] Comprobar el jugador que va ganando
  - [ ] __Separar el programa en funciones__
-     - [ ] _Contar negras_
-   - [ ] _Contar blancas_
-   - [ ] _Comprobar ganador_
 - [ ] Movimiento de las fichas
 - [ ] Damas reina (cuando una ficha llega al otro lado del tablero)
+### Funciones por implementar
+- [ ] Contar negras
+```java
+/**
+ * Cuenta todas las fichas negras del tablero (X)
+ * @param tablero El array usado para el tablero
+ * @return Numero de fichas negras que hay
+ */
+public static int contarNegras(char[][] tablero) {}
+```
+- [ ] Contar blancas
+```java
+/**
+ * Cuenta todas las fichas blancas del tablero (O)
+ * @param tablero El array usado para el tablero
+ * @return Numero de fichas blancas que hay
+ */
+public static int contarBlancas(char[][] tablero) {}
+```
+- [ ] Comprobar ganador
+```java
+/**
+ * Compara cuantas fichas tiene cada jugador y determina quien va ganando
+ * @param nBlancas Número de fichas blancas en tablero
+ * @param nNegras Número de fichas negras en tablero
+ * @return Devuelve una 'X' si van ganando negras, 'O' si van ganando blancas y 'E' si van en empate.
+ */
+public static char comprobarGanador(int nBlancas, int nNegras) {}
+```
