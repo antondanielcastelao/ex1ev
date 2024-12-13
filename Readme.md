@@ -67,10 +67,9 @@ public static int contarBlancas(char[][] tablero) {}
 - [ ] Comprobar ganador
 ```java
 /**
- * Compara cuantas fichas tiene cada jugador y determina quien va ganando
- * @param nBlancas Número de fichas blancas en tablero
- * @param nNegras Número de fichas negras en tablero
- * @return Devuelve una 'X' si van ganando negras, 'O' si van ganando blancas y 'E' si van en empate.
+ * Compara cuantas fichas tiene cada jugador (usando las dos anteriores funciones) y determina quien va ganando
+ * @param tablero Array usado para el tablero del juego
+ * @return 'X' si van ganando negras, 'O' si van ganando blancas y 'E' si van en empate.
  */
-public static char comprobarGanador(int nBlancas, int nNegras) {}
+public static char comprobarGanador(char[][] tablero) {}
 ```
