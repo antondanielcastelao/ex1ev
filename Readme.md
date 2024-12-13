@@ -24,6 +24,7 @@ char[][] tablero = {
         {'O', ' ', 'O', ' ', 'O', ' ', 'O', ' '}
 };
 ```
+***
 ## Por implementar
 - [X] Comprobar el jugador que va ganando
  - [ ] __Separar el programa en funciones__
