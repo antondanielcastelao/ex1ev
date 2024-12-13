@@ -1,4 +1,4 @@
-# Juego de las damas :clubs: :game_die:
+# Juego de las damas :game_die: :clubs:
 ## Indice
 1. [Funcionamiento](#funcionamiento)
 
