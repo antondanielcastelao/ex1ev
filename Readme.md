@@ -1,10 +1,13 @@
 # Juego de las damas :clubs: :game_die:
 ## Indice
 1. [Funcionamiento](#funcionamiento)
+
    1.1. [Ordinograma](#ordinograma)
-   1.2. [Tablero](#tablero)
+   
+    1.2. [Tablero](#tablero)
 2. [Por implementar](#por-implementar)
-2.1 [Funciones](#funciones-por-implementar)
+
+    2.1 [Funciones](#funciones-por-implementar)
 ***
 ## Funcionamiento
 El juego consta de un **tablero de 8 x 8**. 
